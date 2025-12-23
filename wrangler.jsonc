@@ -1,0 +1,6 @@
+{
+  "name": "human-web",
+  "compatibility_date": "2025-12-23",
+  "compatibility_flags": ["nodejs_compat"],
+  "main": "src/index.ts"
+}
